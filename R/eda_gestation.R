@@ -48,7 +48,7 @@ summarise(Gestation,
           `Mean wt`  = ...)
 
 # useful for cleaning names, from package janitor  janitor::clean_names()
-
+¢ 
 # Activity 3 - Grouped summaries
 
 # make a new data frame containing only id, age and race variables
